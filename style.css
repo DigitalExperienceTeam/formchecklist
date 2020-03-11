@@ -30,6 +30,7 @@ body {
 
 .checklist h2 {
     margin-top: 0;
+    max-width: 80%;
 }
 
 /* Remove margins and padding from the list */
